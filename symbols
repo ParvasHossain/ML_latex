@@ -1,0 +1,34 @@
+%% All symbols are placed here %%
+% refer symbols as \glssymbol{v} %
+
+\newglossary[syg]{symbol}{sys}{syo}{List of Symbols}
+
+
+\newglossaryentry{f}{
+    name        = {frequency} ,
+    symbol      = {\ensuremath{f}} ,
+    description = {Frequency is the number of occurrences of a repeating event per unit of time} ,
+    type        = symbol
+}
+
+\newglossaryentry{t}{
+    name        = {time} ,
+    symbol      = {\ensuremath{t}} ,
+    description = {Time is the indefinite continued progress of existence and events that occur in an apparently irreversible succession from the past\, through the present, into the future} ,
+    type        = symbol
+}
+
+\newglossaryentry{spec}{
+    name        = {spectrogram} ,
+    symbol      = {\ensuremath{spec}} ,
+    description = {A spectrogram is a visual representation of the spectrum of frequencies of a signal as it varies with time} ,
+    type        = symbol
+}
+
+
+\newglossaryentry{p}{
+    name        = {probability} ,
+    symbol      = {\ensuremath{p}} ,
+    description = {Probability is a numerical description of how likely an event is to occur or how likely it is that a proposition is true} ,
+    type        = symbol
+}

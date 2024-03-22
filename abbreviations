@@ -1,0 +1,71 @@
+\newglossary{abbrev}{abs}{abo}{List of Abbreviations}
+
+%% Accronyms/Abbreviations are placed here %%
+% Call abbreviations as gls{EER}
+%-----------------------------------------------------
+
+
+\newglossaryentry{EER}{
+    name = EER,
+    description = Equal Error Rate,
+    type = abbrev
+}
+
+\newglossaryentry{MFCC}{
+    name = MFCC,
+    description = Mel-Frequency Cepstral Coefficients,
+    type = abbrev
+}
+
+
+\newglossaryentry{ROC}{
+    name = ROC,
+    description = Receiver Operating Characteristic Curve,
+    type = abbrev
+}
+
+
+\newglossaryentry{HMM}{
+    name = HMM,
+    description = Hidden Markov Model,
+    type = abbrev
+}
+
+\newglossaryentry{DNN}{
+    name = DNN,
+    description = Deep Neural Network,
+    type = abbrev
+}
+
+\newglossaryentry{ANN}{
+    name = ANN,
+    description = Artificial Neural Network,
+    type = abbrev
+}
+
+\newglossaryentry{GMM}{
+    name = GMM,
+    description = Gaussian Mixture Model,
+    type = abbrev
+}
+
+
+\newglossaryentry{CNN}{
+    name = CNN,
+    description = Convolutional Neural Network,
+    type = abbrev
+}
+
+
+\newglossaryentry{DTW}{
+    name = DTW,
+    description = Dynamic Time Wrapping,
+    type = abbrev
+}
+
+
+\newglossaryentry{NN}{
+    name = NN,
+    description = Neural Network,
+    type = abbrev
+}
